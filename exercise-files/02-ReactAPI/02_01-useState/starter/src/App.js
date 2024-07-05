@@ -17,7 +17,7 @@ function App() {
     const random2 = Math.floor(Math.random() * 50);
   };
 
-  const guessTheNumber = () => {};
+  const guessTheNumber = () => { };
 
   return (
     <div className="p-5" style={{ width: "80%" }}>
